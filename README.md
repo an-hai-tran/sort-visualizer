@@ -4,11 +4,10 @@ This project is a web app that visualizes sorting algorithms: Selection Sort, Bu
 
 You can access it at https://antran416.github.io/sort-visualizer/
 
-You can run this app locally by clone the repo and install the dependencies:
-
-$ git clone https://github.com/antran416/sort-visualizer.git
-$ cd sort-visualizer
-$ npm install
+You can run this app locally by cloning this repo and install the dependencies:
+`$ git clone https://github.com/ramiz-rahman/sort-visualizer.git`
+`$ cd sort-visualizer`
+`$ npm install`
 
 # Getting Started with Create React App
 
