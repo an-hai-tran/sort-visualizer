@@ -1,4 +1,4 @@
-#Sorting Visualizer
+# Sorting Visualizer
 
 This project is an app that visualizes sorting algorithms: Selection Sort, Bubble Sort, Insertion Sort, and Heap Sort.
 
