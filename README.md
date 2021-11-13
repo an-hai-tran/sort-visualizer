@@ -1,3 +1,9 @@
+#Sorting Visualizer
+
+This project is an app that visualizes sorting algorithms: Selection Sort, Bubble Sort, Insertion Sort, and Heap Sort.
+
+You can access it at https://antran416.github.io/sort-visualizer/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
