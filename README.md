@@ -12,6 +12,10 @@ You can run this app locally by cloning this repo and install the dependencies:
 
 `$ npm install`
 
+# Purpose
+
+This is my first project with React because I want to learn some new JavaScript library. I also view this as an opportunity for me to revise my knowledge on the classic sorting algorithms.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
