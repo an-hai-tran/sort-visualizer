@@ -27,7 +27,7 @@ This is my first project with React because I want to learn some new JavaScript 
 ## Sample Algorithm Visualization
 ![image](https://user-images.githubusercontent.com/64510590/152063620-7044b87f-afe6-4ef0-bb15-f3a1049f58d8.png)
 The green color indicates that this element has been sorted and put in the correct position.\
-The yellow color indicates that this element that is being transferred to the correct position.\
+The yellow color indicates that this element is being transferred to the correct position.\
 The red color indicates the element that is being compared to the yellow element.\
 
 # Getting Started with Create React App
